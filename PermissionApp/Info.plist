@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSCameraUsageDescription</key>
+	<string>app requires camera usage for taking pictures</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>I required listen to your commands</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>App requires location to track your data</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>App requires location to track your data</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
